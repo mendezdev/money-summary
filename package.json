@@ -1,0 +1,22 @@
+{
+  "name": "money-summary",
+  "version": "1.0.0",
+  "description": "checks the diary money",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "example",
+    "money",
+    "summary"
+  ],
+  "author": "Pablo Mendez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mendezdev/money-summary/issues"
+  },
+  "homepage": "https://github.com/mendezdev/money-summary#readme"
+}
