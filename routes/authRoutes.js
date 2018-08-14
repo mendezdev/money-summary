@@ -3,7 +3,7 @@ const bcrypt = require('bcryptjs');
 const passport = require('passport');
 
 const User = mongoose.model('users');
-
+//test comments
 module.exports = app => {
   app.post('/api/auth/register', async (req, res) => {
     const {
